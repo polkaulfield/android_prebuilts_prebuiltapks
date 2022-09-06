@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE := BromiteWebview
+LOCAL_MODULE := BromiteWebView
 LOCAL_SRC_FILES := arm_SystemWebView.apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_SUFFIX := $(COMMON_ANDROID_PACKAGE_SUFFIX)
